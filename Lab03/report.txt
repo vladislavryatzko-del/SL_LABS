@@ -1,0 +1,8 @@
+vlad
+/home/vlad/linux_lab
+uid=1000(vlad) gid=1000(vlad) groups=1000(vlad),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users),105(lpadmin),125(sambashare),986(vboxsf)
+total 4
+-rw-rw-r-- 2 vlad vlad 69 Oct 14 16:38 main.py
+-rw-rw-r-- 1 vlad vlad  0 Oct 14 16:08 utisls.sh
+Login: vlad
+Wed Oct 15 12:15:12 PM +03 2025
