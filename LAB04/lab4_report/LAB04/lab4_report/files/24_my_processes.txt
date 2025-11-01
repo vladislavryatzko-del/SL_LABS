@@ -1,0 +1,4 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+vlad        2102  0.4  0.1  16412  7532 pts/0    Ss   14:32   0:05 zsh
+vlad        3187  0.0  0.0  10816  2096 pts/0    SN   14:50   0:00 sleep 1h
+vlad        3206  100  0.1  16148  4728 pts/0    R+   14:51   0:00 ps -u
